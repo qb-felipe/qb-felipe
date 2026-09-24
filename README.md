@@ -12,7 +12,6 @@
 
 <p align="left">✨ Criando bugs desde 2019<br>📚 Formado em Analise e desenvolvimento de Sistemas e Pós Graduado em Engenharia de Software <br>🎯 Objetivo: Me desenvolver mais a cada dia, me desafiando e causando impacto positivo com a tecnologia.</p>
 
-https://forms.gle/M5agpVpCDNoXsc9Z8
 
 ###
 
